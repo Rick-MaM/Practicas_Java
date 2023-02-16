@@ -1,0 +1,11 @@
+D:\Archivos\Git_Hub\Java-C\Practica_Histograma_C\obj\Debug\Practica_Histograma_C.csproj.AssemblyReference.cache
+D:\Archivos\Git_Hub\Java-C\Practica_Histograma_C\obj\Debug\Practica_Histograma_C.csproj.SuggestedBindingRedirects.cache
+D:\Archivos\Git_Hub\Java-C\Practica_Histograma_C\obj\Debug\Practica_Histograma_C.Form1.resources
+D:\Archivos\Git_Hub\Java-C\Practica_Histograma_C\obj\Debug\Practica_Histograma_C.Properties.Resources.resources
+D:\Archivos\Git_Hub\Java-C\Practica_Histograma_C\obj\Debug\Practica_Histograma_C.csproj.GenerateResource.cache
+D:\Archivos\Git_Hub\Java-C\Practica_Histograma_C\obj\Debug\Practica_Histograma_C.csproj.CoreCompileInputs.cache
+D:\Archivos\Git_Hub\Java-C\Practica_Histograma_C\bin\Debug\Practica_Histograma_C.exe.config
+D:\Archivos\Git_Hub\Java-C\Practica_Histograma_C\bin\Debug\Practica_Histograma_C.exe
+D:\Archivos\Git_Hub\Java-C\Practica_Histograma_C\bin\Debug\Practica_Histograma_C.pdb
+D:\Archivos\Git_Hub\Java-C\Practica_Histograma_C\obj\Debug\Practica_Histograma_C.exe
+D:\Archivos\Git_Hub\Java-C\Practica_Histograma_C\obj\Debug\Practica_Histograma_C.pdb

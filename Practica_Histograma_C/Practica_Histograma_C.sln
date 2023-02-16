@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica_Histograma_C", "Practica_Histograma_C.csproj", "{FB755E3F-204C-4C36-B5A2-0E6187D0D13A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB755E3F-204C-4C36-B5A2-0E6187D0D13A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB755E3F-204C-4C36-B5A2-0E6187D0D13A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB755E3F-204C-4C36-B5A2-0E6187D0D13A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB755E3F-204C-4C36-B5A2-0E6187D0D13A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81376C5C-BB42-439C-8115-480DA367C6FF}
+	EndGlobalSection
+EndGlobal
